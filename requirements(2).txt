@@ -1,0 +1,8 @@
+streamlit>=1.37
+numpy>=1.24
+trimesh>=4.4
+plotly>=5.22
+scipy>=1.10
+kaleido>=0.2.1
+streamlit-plotly-events>=0.0.6
+pyfqmr>=0.2.0
